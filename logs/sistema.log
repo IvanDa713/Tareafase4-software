@@ -1,0 +1,18 @@
+2026-11-22 11:52:10 - INFO - Cliente registrado: Ana Pérez
+2026-11-22 11:52:10 - INFO - Operación exitosa: Operación 1 - Registrar cliente válido
+2026-11-22 11:52:10 - ERROR - Operación 2 - Registrar cliente inválido: El correo del cliente no es válido.
+2026-11-22 11:52:10 - INFO - Servicio registrado: Sala de Reuniones
+2026-11-22 11:52:10 - INFO - Operación exitosa: Operación 3 - Registrar servicio válido
+2026-11-22 11:52:10 - ERROR - Operación 4 - Registrar servicio inválido: El costo base debe ser mayor que cero.
+2026-11-22 11:52:10 - INFO - Servicio registrado: Portátil Empresarial
+2026-11-22 11:52:10 - INFO - Servicio registrado: Asesoría en Software
+2026-11-22 11:52:10 - INFO - Operación exitosa: Operación 5 - Registrar servicios adicionales
+2026-11-22 11:52:10 - INFO - Reserva creada: R001
+2026-11-22 11:52:10 - INFO - Operación exitosa: Operación 6 - Crear reserva exitosa
+2026-11-22 11:52:10 - INFO - Operación exitosa: Operación 7 - Procesar reserva exitosa
+2026-11-22 11:52:10 - ERROR - Operación 8 - Reserva fallida por cliente inexistente: No se encontró el cliente con ID C999.
+2026-11-22 11:52:10 - ERROR - Operación 9 - Reserva fallida por horas inválidas: La duración de la reserva debe ser mayor que cero.
+2026-11-22 11:52:10 - INFO - Reserva creada: R004
+2026-11-22 11:52:10 - ERROR - Operación 10 - Procesar reserva sin confirmar: No se pudo procesar la reserva R004.
+2026-11-22 11:52:10 - INFO - Servicio registrado: Asesoría VIP
+2026-11-22 11:52:10 - ERROR - Operación 11 - Reserva con servicio no disponible: El servicio 'Asesoría VIP' no está disponible.
